@@ -36,7 +36,7 @@
 
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
         <div class="container-fluid px-5">
-            <a class="navbar-brand" href="#">Logo</a>
+            <a class="navbar-brand" href="#">Movies</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
             </button>
@@ -60,8 +60,8 @@
                         
                         </div>
                         <div class="d-flex p-2 align-items-stretch">
-                            <div class="h1 flex-fill">Title</div>
-                            <div class="flex-fill">Actions</div>
+                            <div class="h1 flex-fill">Movies</div>
+                            <div class="flex-fill"></div>
                         </div>
                         <div class="main-content">
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis 
